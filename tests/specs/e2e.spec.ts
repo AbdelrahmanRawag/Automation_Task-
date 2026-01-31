@@ -115,6 +115,6 @@ test.describe('End-to-End: Complete User Journey', () => {
 
         // Stay on home page for 30 seconds before closing
         console.log('Waiting 30 seconds before closing...');
-        await page.waitForTimeout(10000);
+        await page.waitForTimeout(3000);
     });
 });
