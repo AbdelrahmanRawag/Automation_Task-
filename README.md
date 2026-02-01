@@ -50,8 +50,8 @@ This project implements the **Page Object Model (POM)** design pattern:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AbdelrahmanRawag/nawy-demoblaze-e2e-tests.git
-   cd nawy-demoblaze-e2e-tests
+   git clone https://github.com/AbdelrahmanRawag/Automation_Task-.git
+   cd Automation_Task-
    ```
 
 2. **Install dependencies:**
